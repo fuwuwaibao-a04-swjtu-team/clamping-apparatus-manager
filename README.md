@@ -1,0 +1,1 @@
+# clamping-apparatus-manager
